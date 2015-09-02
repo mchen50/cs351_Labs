@@ -1,0 +1,11 @@
+total 76
+-rw-r--r--. 1 mchen50 cs425stud     0 Apr  7 16:43 ls_out.txt
+-rw-r--r--. 1 mchen50 cs351ta     840 Jan 26 09:18 Makefile
+-rw-r--r--. 1 mchen50 cs351ta     132 Apr  7 16:02 new.txt
+-rwxr-xr-x. 1 mchen50 cs351ta    5143 Jan 26 09:18 sdriver.pl
+-rw-r--r--. 1 mchen50 cs351ta     289 Jan 26 09:18 trace01.txt
+-rw-r--r--. 1 mchen50 cs351ta     326 Jan 26 09:18 trace02.txt
+-rw-r--r--. 1 mchen50 cs351ta     169 Jan 26 09:18 trace03.txt
+-rw-r--r--. 1 mchen50 cs351ta     225 Jan 26 09:18 trace04.txt
+-rwxr-xr-x. 1 mchen50 cs425stud 27717 Apr  7 16:42 tsh
+-rw-r--r--. 1 mchen50 cs351ta   16033 Apr  7 16:42 tsh.c
